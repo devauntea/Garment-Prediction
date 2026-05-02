@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large data files
+data/raw/
+data/processed/
+
+# Large model files
+models/*.pt
+models/*.pth
+
+# System files
+.DS_Store
+
+# Optional notebook checkpoints
+.ipynb_checkpoints/
